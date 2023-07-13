@@ -2,9 +2,6 @@
 In this repo you will find my first Bubble Sort Algorithm in processing.
 
 # 💫 About Me:
-🔭 I’m currently working on completing different Udemy Courses to learn new and awesome stuff<br>
-📖 Current Course https://www.udemy.com/course/the-complete-javascript-course/ <br>
-🌱 I’m currently learning JavaScript<br>
 💬 Ask me about anything, maybe i can help you 😊
 
 # 💻 Tech Stack:
